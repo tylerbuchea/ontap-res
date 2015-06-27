@@ -12,6 +12,8 @@
 
 ## icons.sh
 
+## icons*
+
 ## sitemap.xml
 
 ## mailer.php
